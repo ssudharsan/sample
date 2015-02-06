@@ -1,3 +1,4 @@
+version: 0.0
 files:
   - source: index.html
     destination: /srv/www/static/public
