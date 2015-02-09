@@ -1,4 +1,5 @@
 version: 0.0
+os: linux
 files:
   - source: index.html
-    destination: /srv/www/static/public
+    destination: /srv/www/static/public	
